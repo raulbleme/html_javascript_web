@@ -1,0 +1,18 @@
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: salmon;
+}
+
+h3{
+    background-color: black;
+    color: rgb(192, 189, 4);
+    padding-left: 1cm;
+}
+
+.margem{
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-top: 2cm;
+    padding-bottom: 1cm;
+}
